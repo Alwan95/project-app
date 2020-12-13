@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">project 2</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- home page  -->
+    <string name="reading">Reading</string>
+    <string name="listening">Listening</string>
+    <string name="writing">Writing</string>
+    <string name="vocabulary">Vocabulary</string>
+
+    <!-- navigation menu  -->
+    <string name="nav_profile">Profile</string>
+    <string name="nav_result">My Result</string>
+    <string name="nav_setting">Settings</string>
+    <string name="nav_about">About us</string>
+    <string name="nav_help">Help</string>
+    <string name="nav_logout">Log out</string>
+
+    <!-- choose difficulty popup -->
+    <string name="choose_level_title">Choose your level</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="advanced">Advanced</string>
+
+    <!-- buttons -->
+    <string name="btn_cancel">Cancel</string>
+
+    <!-- Profile -->
+    <string name="test">Test</string>
+    <string name="questions">Questions</string>
+    <string name="user_image">User image</string>
+</resources>
