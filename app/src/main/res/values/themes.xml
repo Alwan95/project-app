@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.Project2" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/prim_color_pearl_500</item>
+        <item name="colorPrimary">@color/black_pearl</item>
         <item name="colorPrimaryVariant">@color/black_pearl</item>
         <item name="colorOnPrimary">@color/white</item>
 
@@ -12,6 +12,10 @@
 
         <!-- set color of the menu to white -->
         <item name="drawerArrowStyle">@style/DrawerIcon</item>
+
+        <!-- make text color for all app to white -->
+        <item name="android:textColor">@color/white</item>
+
     </style>
 
     <style name="DrawerIcon" parent="Widget.AppCompat.DrawerArrowToggle">

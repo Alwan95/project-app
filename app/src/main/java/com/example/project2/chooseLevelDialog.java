@@ -62,7 +62,4 @@ public class chooseLevelDialog extends Dialog implements View.OnClickListener {
         }
         dismiss();
     }
-    public String getLevel() {
-        return level;
-    }
 }

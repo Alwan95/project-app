@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Choose your Level"
+        android:text="@string/choose_your_level"
         android:gravity="center_horizontal"
         android:textSize="20sp"
         android:textColor="@color/white"
